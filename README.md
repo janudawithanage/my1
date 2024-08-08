@@ -1,2 +1,2 @@
-# my1
+# SCS1303
 This is my First Project
